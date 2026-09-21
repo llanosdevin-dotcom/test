@@ -9,7 +9,7 @@ Last Modified: September 21, 2026
 Version: 1.0
 
 Acknowledgements: Class notes, learning resources, and ChatGPT
-*/
+
 
 import java.util.Scanner;
 
