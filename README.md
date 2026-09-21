@@ -50,4 +50,4 @@ public class RecursiveGCD {
     }
 }
 
-// “The gcd() method uses recursion. The base case is when b == 0, and the recursive case is gcd(b, a % b). The % operator gets the remainder, which moves the values toward the base case.”# test
+// “The gcd() method uses recursion. The base case is when b == 0, and the recursive case is gcd(b, a % b). The % operator gets the remainder, which moves the values toward the base case.”
