@@ -2,7 +2,7 @@
 Description: This program calculates the GCD of two non-negative integers
 using the recursive Euclidean algorithm.
 
-Programmed by: Devin Llanos - BSIT - [48160] [Subject]
+Programmed by: llanos Alamaray ROboca Britanico - BSIT - [48160] [Subject]
 
 Last Modified: September 21, 2026
 
